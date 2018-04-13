@@ -1,0 +1,43 @@
+avant traitement des adresses, latitudes et longitudes
+
+carac11.csv
+usag11.csv 
+vehic11.csv
+lieu11.csv 
+
+usag22.csv   avec les nouvelles variables, sans paris et corse
+carac22.csv  sans paris et corse
+vehic22.csv  sans paris et corse
+lieu22.csv   sans paris et corse
+
+mat.csv     nombre de victime par accident, une ligne : accident, nbre de victimes indemnes, nombre de victimes bléssées légèrement, ...
+matv.csv   nombre de vehicules par accident, une ligne : accident, nbre de vehicules de cat1, de cat2, ...
+
+
+departement45_acc(2).csv    les accidents du departement 45, un accident par ligne
+departement45_vic(2).csv    les victimes du departement 45, une victime par ligne
+departement45_vehic(2).csv  les véhicules du departement 45, un véhicule par ligne
+departement45_vic(21).csv  avec catégories de vehicules 
+
+departement45_acc(3).csv    meme chose que departement45_acc.txt avec météo
+departement45_vic(3).csv   meme chose que departement45_vic.txt avec météo
+departement45_vic(31).csv meme chose que departement45_vic(21).csv avec météo
+
+mat45(2).csv     nombre de victime par accident, une ligne : accident, nbre de victimes indemnes, nombre de victimes bléssées légèrement, ...
+matv45(2).csv    nombre de véhicules par accidents, une ligne : accident, nombre de véhicules de cat1, de cat2, ....
+
+
+apres traitement des adresses, latitudes et longitudes 
+
+carac1.cvs   anciennes variables 
+usag1.csv    sans les nouvelles variables
+usag2.csv    avec les nouvelles variables, region parisienne et corse enlevés
+usag3.csv    sans les anciennes variables, region parisienne et corse enlevés, base plus propre (sans traj et atm)
+
+departement45_acc.csv    les accidents du departement 45, un accident par ligne
+departement45_vic.csv    les victimes du departement 45, une victime par ligne
+
+departement45_acc(1).csv    meme chose que departement45_acc.txt avec météo
+departement45_vic(1).csv   meme chose que departement45_vic.txt avec météo
+
+mat45.csv     nombre de victime par accident, une ligne : accident, nbre de victimes indemnes, nombre de victimes bléssées légèrement, ...
